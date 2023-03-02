@@ -1,0 +1,15 @@
+{
+  "name": "raspberry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serveur01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moi",
+  "license": "ISC",
+  "dependencies": {
+    "dmx": "^0.2.5",
+    "express": "^4.18.2"
+  }
+}
