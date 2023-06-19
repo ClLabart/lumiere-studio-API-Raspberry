@@ -1,3 +1,5 @@
+# Api Raspberry Pi gestion des lumières
+
 Pour lancer le script sur le Raspberry Pi vous avez besoins de :
     - Node JS installé et avoir fait un "npm install"  
     - Avoir les lampes de connectées
